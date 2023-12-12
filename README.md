@@ -4,3 +4,7 @@
 Потом установить дополнительные модули:
 pip install psutil
 pip install pywin32
+Запуск "py BreadcrumbsChangeScreenRateWhenRunBattery.pyw".
+Скрипт запустится в фоне и будет работать до перезагрузки ПК.
+
+Чтобы скрипт работал и после перезгрузки ПК 
